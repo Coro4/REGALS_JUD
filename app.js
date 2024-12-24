@@ -5,7 +5,7 @@ const monthsData = [
     {
       abbr: "07/23",
       month: "Juliol-Agost-Setembre '23'",
-      intro: "Vet aquí una vegada, menorca, dos joves i algo pendent...",
+      intro: "Vet aquí una vegada, Menorca, dos joves i algo pendent...",
       enigma: "Discoteca que vam veure més per fora que per dins:",
       answer: "Iguana",
       clue: "Volies un regal per aquests mesos d'horribles gestions? Nah... Next."
@@ -175,7 +175,7 @@ const monthsData = [
         node.classList.add("last");
       }
       // Si index >= 3 => nodo oscuro
-      if (index >= 3) {
+      if (index >= 5) {
         node.classList.add("dark-node");
       }
   

@@ -85,7 +85,7 @@ const monthsData = [
     {
       abbr: "08/24",
       month: "Agost '24",
-      intro: "Festa Major... Aquesta si que et menjava la boca jeje",
+      intro: "Festa Major... Aquesta sí que et menjava la boca jeje",
       enigma: "País on vam començar a planificar un viatge, amb molts aromes i espècies, que encara tenim pendent:",
       answer: "Marroc",
       clue: "PISTA: Electrodomèstics (Nº8)"

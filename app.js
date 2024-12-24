@@ -119,7 +119,7 @@ const monthsData = [
       month: "Desembre '24",
       intro: "Preparacions de nadal, el nostre segon viatget, i un objectiu comú a partir d'ara: Estar encara més bons que el pa (yatusae)",
       enigma: "El teu llac preferit:",
-      answer: "Bethmal",
+      answer: "Bethmale",
       clue: "PISTA: Entrada (Nº12)"
     }
   ];
